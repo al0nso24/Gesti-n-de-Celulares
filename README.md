@@ -1,5 +1,5 @@
 <p>Realizado en Netbeans.</p>
-<p><b>Tecnologías usadas</b></p>
+<p><b>Tecnologías usadas:</b></p>
 <ul>
   <li>Apache Netbeans IDE 25</li>
   <li>JDK 24</li>
