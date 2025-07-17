@@ -2,6 +2,7 @@
 <p><b>Tecnologías usadas:</b></p>
 <ul>
   <li>Apache Netbeans IDE 25</li>
+  <li>Lenguaje Java</li>
   <li>JDK 24</li>
 </ul>
 <p><b>Gestión de celulares usando estructuras de datos:</b></p>
